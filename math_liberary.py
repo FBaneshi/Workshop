@@ -11,3 +11,5 @@ def scalar_product(vector1, vector2):
 
 
     return sum(x * y for x, y in zip(vector1, vector2))
+
+gg
